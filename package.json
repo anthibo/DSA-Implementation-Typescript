@@ -1,0 +1,16 @@
+{
+  "name": "dsa-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "execute": "yarn ts-node"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  },
+  "dependencies": {
+    "@types/node": "^17.0.32",
+    "ts-node": "^10.7.0"
+  }
+}
